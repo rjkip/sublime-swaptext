@@ -9,7 +9,7 @@ In `Keybindings - User`:
 
 ```json
 [
-    { "keys": ["ctrl+,"], "command": "swap_text"}
+    { "keys": ["ctrl+,"], "command": "swap_text" }
 ]
 ```
 
